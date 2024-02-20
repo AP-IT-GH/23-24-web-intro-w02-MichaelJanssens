@@ -15,5 +15,5 @@
 
 ## 💡 vragen
 
-- Waarvoor staat de afkorting `ol`?
-- Welke elementen worden in deze oefening "genest"?
+- Waarvoor staat de afkorting `ol`? Definieert een geordende lijst
+- Welke elementen worden in deze oefening "genest"? ol en li
